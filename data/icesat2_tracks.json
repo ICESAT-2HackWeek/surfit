@@ -5,6 +5,6 @@
 	},
 	"blackrock": {"granule_id": "ATL03_20200708170622_02040802_006_01.h5", 
 		      "beam":"gt1l",
-		      "viz_url":"http://openaltimetry.org/data/api/icesat2/atl03?date=2020-07-08&minx=-119.31823117419968&miny=40.61614913888411&maxx=-119.17751566966596&maxy=40.85301044291694&trackId=204&beamName=gt1l&outputFormat=json"
+		      "viz_url":"http://openaltimetry.org/data/api/icesat2/atl03?date=2020-07-08&minx=-119.31823117419968&miny=40.61614913888411&maxx=-119.17751566966596&maxy=40.85301044291694&trackId=204&outputFormat=json"
 	}
 }

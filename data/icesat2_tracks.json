@@ -1,8 +1,10 @@
 {
 	"utqiagvik": {"granule_id": "ATL03_20220417011336_03811505_006_02.h5", 
-		      "beam":"gt1l"
+		      "beam":"gt1l",
+		      "viz_url":"http://openaltimetry.org/data/api/icesat2/atl03?date=2022-04-17&minx=-156.83823035497537&miny=71.24790555527827&maxx=-156.36503098588742&maxy=71.46395004246523&trackId=381&outputFormat=json"
 	},
 	"blackrock": {"granule_id": "ATL03_20200708170622_02040802_006_01.h5", 
-		      "beam":"gt1l"
+		      "beam":"gt1l",
+		      "viz_url":"http://openaltimetry.org/data/api/icesat2/atl03?date=2020-07-08&minx=-119.31823117419968&miny=40.61614913888411&maxx=-119.17751566966596&maxy=40.85301044291694&trackId=204&beamName=gt1l&outputFormat=json"
 	}
 }

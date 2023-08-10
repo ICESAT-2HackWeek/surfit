@@ -19,7 +19,9 @@ work on their contribution. Having a dedicated folder for one-self helps to
 prevent conflicts when merging with master.
 
 ### `data`
-Data products can be found here. 
+Data products can be found here.
+* A description of our ATL03 and ATL06 naming conventions is as follows:
+* * 
 
 ### `satellite info`
 Satellite info and data dictionaries found here. 

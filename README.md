@@ -20,7 +20,7 @@ prevent conflicts when merging with master.
 
 ### 'data'
 
-### "satellite info'
+### 'satellite info'
 
 ### 'scratch'
 

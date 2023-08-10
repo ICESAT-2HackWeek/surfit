@@ -1,6 +1,6 @@
 # Surfit 🏄‍♂️
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
+Our main goal for this project was to see if we could assess surface roughness along track-length scales comparing ATL03 and ATL06 ICESat-2 data, across two regions of interest.
 
 ## Files
 

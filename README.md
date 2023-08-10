@@ -13,7 +13,7 @@ This project aims to investigate if we can assess surface roughness along track-
 
 ## Folders
 
-### `contributors`
+### `shared code`
 Each team member has it's own folder under contributors, where he/she can
 work on their contribution. Having a dedicated folder for one-self helps to 
 prevent conflicts when merging with master.

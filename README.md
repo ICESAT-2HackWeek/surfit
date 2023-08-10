@@ -19,12 +19,16 @@ work on their contribution. Having a dedicated folder for one-self helps to
 prevent conflicts when merging with master.
 
 ### `data`
+Data products can be found here.
+* A description of our ATL03 and ATL06 naming conventions is as follows:
+  * site_ATL06_len##.csv
+  * site_ATL03.csv
 
 ### `satellite info`
-
-### `scratch`
+Satellite info and data dictionaries found here. 
 
 ### `shared code`
+Code that was collaboratively worked on can be found here. This folder contains retrieval instructions for ATLO3 and ATL06 data. 
 
 The following people contributed to our project throughout the week:
 * Project lead: Ben Purinton
@@ -32,10 +36,10 @@ The following people contributed to our project throughout the week:
 * Project lead: Jessica Badgeley
 * Helper: Nathan Kurtz
 * Helper: YoungHyun Koo
-* Team member: 'Ana Fonongava'inga Stringer
 * Team member: Chancelor Roberts
 * Team member: Emma Robertson
 * Team member: Karina Zikan
+* Team member: 'Ana Fonongava'inga Stringer
 
 ### `notebooks`
 Notebooks that are considered delivered results for the project should go in

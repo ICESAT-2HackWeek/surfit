@@ -19,12 +19,13 @@ work on their contribution. Having a dedicated folder for one-self helps to
 prevent conflicts when merging with master.
 
 ### `data`
+Data products can be found here. 
 
 ### `satellite info`
-
-### `scratch`
+Satellite info and data dictionaries found here. 
 
 ### `shared code`
+Code that was collaboratively worked on can be found here. This folder contains retrieval instructions for ATLO3 and ATL06 data. 
 
 The following people contributed to our project throughout the week:
 * Project lead: Ben Purinton

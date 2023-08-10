@@ -1,6 +1,6 @@
 # Surfit 🏄‍♂️
 
-This project aims to investigate if we can assess surface roughness along track-length scales comparing ATL03 and ATL06 data across two regions of interest.
+We aim to assess surface roughness along track-length scales comparing ATL03 and ATL06 data across two regions of interest.
 
 ## Files
 

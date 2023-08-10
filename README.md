@@ -7,7 +7,7 @@ This project aims to investigate if we can assess surface roughness along track-
 * `.gitignore`
 <br> Globally ignored files by `git` for the project.
 * `environment.yml`
-<br> `conda` environment description needed to run this project.
+<br> `conda` environment description needed to run this project.https://github.com/ICESAT-2HackWeek/surfit/blob/main/README.md
 * `README.md`
 <br> Description of the project. [Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
 
@@ -17,6 +17,14 @@ This project aims to investigate if we can assess surface roughness along track-
 Each team member has it's own folder under contributors, where he/she can
 work on their contribution. Having a dedicated folder for one-self helps to 
 prevent conflicts when merging with master.
+
+### 'data'
+
+### "satellite info'
+
+### 'scratch'
+
+### 'shared code'
 
 The following people contributed to our project throughout the week:
 * Project lead: Ben Purinton

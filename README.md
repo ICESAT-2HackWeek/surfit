@@ -18,13 +18,13 @@ Each team member has it's own folder under contributors, where he/she can
 work on their contribution. Having a dedicated folder for one-self helps to 
 prevent conflicts when merging with master.
 
-### 'data'
+### `data`
 
-### 'satellite info'
+### `satellite info`
 
-### 'scratch'
+### `scratch`
 
-### 'shared code'
+### `shared code`
 
 The following people contributed to our project throughout the week:
 * Project lead: Ben Purinton
